@@ -11,6 +11,7 @@ The main challenge was not missing data. The dataset has one row per customer pu
 ![MTN Customer Churn Dashboard](./screenshots/model.png)
 ![MTN Customer Churn Dashboard](./screenshots/clean.png)
 ![MTN Customer Churn Dashboard](./screenshots/clean1.png)
+![MTN Customer Churn Dashboard](./screenshots/clean2.png)
 
 ## Business Questions Addressed
 - How many customers are there, and what share churned?
