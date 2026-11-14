@@ -141,4 +141,4 @@ Source: [https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-custom
 
 ## Author
 **Sello Mpho** · Bloemfontein, South Africa
-[Portfolio](https://mpho-sello.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mpho-sello-692193241) · sellompho1601@gmail.com
+[Portfolio](https://sello-mpho-portfolioo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mpho-sello-692193241) · sellompho1601@gmail.com
